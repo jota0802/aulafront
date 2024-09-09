@@ -38,12 +38,12 @@ const Login =()=>{
                                     </li>
                                     <li>
                                         <span className='text-forgot'>Não possui Login? Cadastre-se!</span>
-                                        <a href="#" className='texto-forgot-cadastro'>Criar Conta</a>
+                                        <a href="" className='texto-forgot-cadastro'>Criar Conta</a>
                                     </li>
                                 </ul>
                         </form>
                     </div>
-                    <img src="" alt="img login" />
+                    <img src="https://www.models-resource.com/resources/big_icons/34/33195.png?updated=1561218512" alt="img login" />
                 </div>
             </section>
         </LoginStyle>
